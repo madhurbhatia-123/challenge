@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dws.challenge.ChallengeApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-29T19:52:55" hostname="P3BLAP-138LXFF" time="0.043">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.dws.challenge.ChallengeApplicationTests" time="0.043"/>
+  <system-out><![CDATA[01:22:50.276 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.dws.challenge.ChallengeApplicationTests]: ChallengeApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+01:22:50.543 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.dws.challenge.ChallengeApplication for test class com.dws.challenge.ChallengeApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::               (v3.2.11)
+
+2024-10-30T01:22:51.251+05:30  INFO 33028 --- [challenge] [    Test worker] c.d.challenge.ChallengeApplicationTests  : Starting ChallengeApplicationTests using Java 17.0.12 with PID 33028 (started by madhur.bhatia in C:\Users\madhur.bhatia\Workspace\challenge)
+2024-10-30T01:22:51.254+05:30  INFO 33028 --- [challenge] [    Test worker] c.d.challenge.ChallengeApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2024-10-30T01:22:55.202+05:30  INFO 33028 --- [challenge] [    Test worker] c.d.challenge.ChallengeApplicationTests  : Started ChallengeApplicationTests in 4.382 seconds (process running for 6.668)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
